@@ -1,0 +1,37 @@
+{
+  "name": "react-copilot-dashboard-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@progress/kendo-react-charts": "15.1.0",
+    "@progress/kendo-react-common": "15.1.0",
+    "@progress/kendo-theme-default": "14.2.0",
+    "bootstrap": "5.3.3",
+    "chart.js": "4.4.4",
+    "primereact": "10.9.8",
+    "primeicons": "7.0.0",
+    "react": "19.2.7",
+    "react-bootstrap": "2.10.6",
+    "react-dom": "19.2.7",
+    "react-hook-form": "7.80.0",
+    "react-router-dom": "7.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "6.0.3",
+    "vite": "7.1.7"
+  },
+  "overrides": {
+    "baseline-browser-mapping": "2.11.26"
+  }
+}

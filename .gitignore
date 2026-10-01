@@ -1,0 +1,53 @@
+# Dependencies & Package Managers
+node_modules/
+.pnp
+.pnp.js
+
+# Build Outputs & Bundles (Excluding from Copilot Indexing saves context tokens)
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Environment & Secret Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# Logs & Debug Output
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Testing & Coverage Noise
+coverage/
+.nyc_output/
+*.lcov
+
+# IDE, OS, & Workspace Cache
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary Scratch Files & Caches
+.vite/
+.eslintcache
+.stylelintcache
+.ts-node/
+*.tmp
