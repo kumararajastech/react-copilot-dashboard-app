@@ -1,6 +1,6 @@
 ---
-name: BackEnd Chat Mode
-model: gpt-4o-mini
-description: Service layer and API integration mode
+name: BackEnd
+model: GPT-5.3-Codex # Medium-Cost Code-Optimized Model
+description: API service layer and HTTP client implementation
 ---
-Services and API integration persona. Uses gpt-4o-mini for cost-efficient service logic.
+Focus on `src/services/`, type definitions, and runtime config binding.

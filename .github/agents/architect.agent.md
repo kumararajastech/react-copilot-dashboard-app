@@ -1,7 +1,7 @@
 ---
 name: Architect
 description: System architecture, React 19 component hierarchy, schema validation, and state flow
-model: gpt-4o
+model: Claude Sonnet 5.5 # Medium-Cost High-Reasoning Model
 ---
 
 # Role: Architect Agent

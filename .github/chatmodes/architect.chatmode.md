@@ -1,6 +1,6 @@
 ---
-name: Architect Chat Mode
-model: gpt-4o
-description: System architecture and schema design mode
+name: Architect
+model: Claude Sonnet 5.5 # Medium-Cost Reasoning Model
+description: System architecture and schema design
 ---
-System architecture and schema design persona. Uses gpt-4o frontier model for complex reasoning.
+Focus on component hierarchy, Zod schemas (`src/schemas/`), and runtime configuration (`src/config/runtimeenv.ts`).

@@ -1,7 +1,7 @@
 ---
 name: DevOps Engineer
 description: Vite build configuration, TypeScript compilation, CI/CD pipelines, Docker, and linting/formatting hooks
-model: gpt-4o-mini
+model: GPT-6 Luna # Low-Cost High-Speed Model
 ---
 
 # Role: DevOps Engineer Agent

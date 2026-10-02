@@ -1,7 +1,7 @@
 ---
 name: FrontEnd Developer
 description: UI component implementation using React 19, TSX, CSS, PrimeReact, React-Bootstrap, and React Hook Form
-model: gpt-4o-mini
+model: Claude Haiku 4.5 # Low-Cost High-Speed Model
 ---
 
 # Role: FrontEnd Developer Agent

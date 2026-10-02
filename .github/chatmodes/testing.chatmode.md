@@ -1,6 +1,6 @@
 ---
-name: Testing Chat Mode
-model: gpt-4o-mini
-description: Test suite authoring mode
+name: Testing
+model: Gemini 3.8 Flash # Low-Cost High-Throughput Model
+description: Unit and integration testing with React Testing Library
 ---
-React Testing Library authoring persona. Uses gpt-4o-mini for fast test generation.
+Focus on React Testing Library assertions and service mocking.

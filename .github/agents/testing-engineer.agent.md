@@ -1,7 +1,7 @@
 ---
 name: Testing Engineer
 description: Unit and integration testing using React Testing Library and Vitest/Jest
-model: gpt-4o-mini
+model: Gemini 3.8 Flash # Low-Cost High-Throughput Model
 ---
 
 # Role: Testing Engineer Agent

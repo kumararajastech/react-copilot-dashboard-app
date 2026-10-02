@@ -1,6 +1,6 @@
 ---
-name: DevOps Chat Mode
-model: gpt-4o-mini
-description: CI/CD, Vite, and build configuration mode
+name: DevOps
+model: GPT-6 Luna # Low-Cost High-Speed Model
+description: Vite, build scripts, and CI/CD pipelines
 ---
-DevOps automation persona. Uses gpt-4o-mini for build and pipeline script generation.
+Focus on `vite.config.ts`, `package.json`, and GitHub Actions workflows.

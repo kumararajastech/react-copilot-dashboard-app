@@ -1,7 +1,7 @@
 ---
 name: BackEnd Developer
 description: Data service layer, HTTP API clients, schema validation integration, and async error handling
-model: gpt-4o-mini
+model: GPT-5.3-Codex # Medium-Cost Code-Optimized Model
 ---
 
 # Role: BackEnd Developer Agent
